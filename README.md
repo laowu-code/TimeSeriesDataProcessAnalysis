@@ -1,6 +1,17 @@
 # 📊 时序数据分析工作站
 
-一个功能完整的本地 Web 数据分析平台，专为时序数据处理与分析设计。
+
+一个功能完整的 Web 数据分析平台，专为时序数据处理与分析设计。
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://laowu-code-timeseriesdataprocessanalysis-app-oyidri.streamlit.app/)
+[![GitHub License](https://img.shields.io/github/license/laowu-code/TimeSeriesDataProcessAnalysis?color=blue)](https://github.com/laowu-code/TimeSeriesDataProcessAnalysis/blob/main/LICENSE)
+[![Python Version](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+### 🌍 在线演示
+**可以直接访问云端版本进行测试：** 👉 **[点击进入：时序数据分析工作站](https://laowu-code-timeseriesdataprocessanalysis-app-oyidri.streamlit.app/)**
+
+---
 
 ## ✨ 核心功能
 
@@ -63,9 +74,21 @@
 
 ## 🚀 快速开始
 
-### 环境要求
-- Python 3.8+
-- pip（Python 包管理器）
+### ☁️ 云端运行（无需安装）
+直接访问我们的在线版本：[Streamlit Cloud Link](https://laowu-code-timeseriesdataprocessanalysis-app-oyidri.streamlit.app/)
+
+### 💻 本地运行
+如果你需要在本地处理私密数据或大型文件，请按照以下步骤操作：
+
+#### 环境要求
+- Python 3.8 - 3.13
+- pip (Python 包管理器)
+
+#### 安装与运行
+1. **克隆仓库**
+   ```bash
+   git clone [https://github.com/laowu-code/TimeSeriesDataProcessAnalysis.git](https://github.com/laowu-code/TimeSeriesDataProcessAnalysis.git)
+   cd TimeSeriesDataProcessAnalysis
 
 ### 安装与运行
 
