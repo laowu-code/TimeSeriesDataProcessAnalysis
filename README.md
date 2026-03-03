@@ -4,7 +4,6 @@
 一个初步 Web 数据分析平台，专为时序数据处理与分析设计。
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://laowu-code-timeseriesdataprocessanalysis-app-oyidri.streamlit.app/)
-[![GitHub License](https://img.shields.io/github/license/laowu-code/TimeSeriesDataProcessAnalysis?color=blue)](https://github.com/laowu-code/TimeSeriesDataProcessAnalysis/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
